@@ -10,7 +10,7 @@ A diabetes, uma doença globalmente prevalente, demanda estratégias avançadas 
    
 2. **data/**: Diretório para armazenar conjuntos de dados utilizados no projeto.
 
-3. **TCC_Predicao_Risco_Diabetes.pdf**: Documento principal do TCC contendo a revisão bibliográfica, metodologia, resultados e conclusões.
+3. **TCC_ Predição de Risco de Diabetes em Estágio Inicial_ Uma Análise Utilizando Aprendizado de Máquina e Seleção de Atributos.pdf**: Documento principal do TCC contendo a revisão bibliográfica, metodologia, resultados e conclusões.
 
 ### Requisitos de Instalação
 - Certifique-se de ter Python 3.x instalado.
@@ -21,7 +21,7 @@ A diabetes, uma doença globalmente prevalente, demanda estratégias avançadas 
 2. Execute `python main.py`.
    
 ### Resultados do TCC
-Os resultados detalhados, análises e conclusões do TCC podem ser encontrados no documento principal `TCC_Predicao_Risco_Diabetes.pdf`. A avaliação do desempenho dos modelos envolve métricas como precisão, recall e acurácia durante o treinamento com o conjunto de testes.
+Os resultados detalhados, análises e conclusões do TCC podem ser encontrados no documento principal `TCC_ Predição de Risco de Diabetes em Estágio Inicial_ Uma Análise Utilizando Aprendizado de Máquina e Seleção de Atributos.pdf`. A avaliação do desempenho dos modelos envolve métricas como precisão, recall e acurácia durante o treinamento com o conjunto de testes.
 
 ### Autor
 - Eduardo Catunda e Silva
